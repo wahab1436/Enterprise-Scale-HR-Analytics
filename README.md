@@ -34,7 +34,7 @@ Schema aligned with modern HRIS and People Analytics systems
 
 3. Dataset Structure
 
-The dataset includes key domains typically used in workforce intelligence research:
+The dataset includes key domains typically used in workforce intelligence research.
 
 3.1 Demographic Variables
 
@@ -78,8 +78,6 @@ overtime_hours
 
 workload_ratio
 
-These variable groups enable statistical depth, ML interpretability, and multi-dimensional feature engineering.
-
 4. Recommended Research Applications
 
 Predictive modeling (attrition, performance, engagement)
@@ -98,25 +96,25 @@ Development of workforce early-warning systems
 
 5. Data Quality and Realism Features
 
-Randomized missingness patterns simulate authentic HR data gaps
+Randomized missingness patterns simulate real HR data gaps
 
-Outliers and long-tailed distributions reflect real workforce variability
+Outliers and long-tailed distributions reflect realistic workforce behavior
 
-Multicollinearity intentional for research on feature importance
+Multicollinearity intentionally preserved for feature importance studies
 
-Non-linear patterns beneficial for gradient boosting and tree models
+Non-linear patterns beneficial for gradient boosting models
 
-Balanced and imbalanced target distributions for ML robustness testing
+Balanced and imbalanced target scenarios for robust experimentation
 
 6. File Format
 
 CSV (comma-separated)
 
-Encoded for cross-platform compatibility
+UTF-8 encoding
 
-Ready for ingestion by Python, R, SQL engines, BI tools, and ML frameworks
+Compatible with Python, R, SQL engines, BI tools, and ML frameworks
 
 7. Ethical Considerations
 
-This dataset is entirely synthetic and does not represent any real individuals or organizations.
-It may be freely used for research, experimentation, training, and portfolio demonstrations.
+This dataset is fully synthetic and does not represent any real individuals or organizations.
+It is safe for research, experimentation, academic purposes, and portfolio projects.
