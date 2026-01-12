@@ -27,7 +27,7 @@ MAX_FILE_SIZE_MB = 200
 CHUNK_SIZE = 50000
 
 st.set_page_config(
-    page_title="Enterprise ML Analytics Platform",
+    page_title="ML Analytics Platform",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
