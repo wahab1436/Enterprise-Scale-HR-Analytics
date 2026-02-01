@@ -1,5 +1,5 @@
 """
-Enterprise-Grade Automated ML Analytics Platform for CSV Data
+Automated ML Analytics Platform for CSV Data
 COMPLETE IMPLEMENTATION - All Blueprint Features
 Supports: XGBoost, Prophet, SHAP, Embeddings, Vector Index, Full Pipeline
 """
@@ -1095,7 +1095,7 @@ def main():
     """Main application entry point"""
     
     # Header
-    st.title("Enterprise-Grade Automated ML Analytics Platform")
+    st.title("Automated ML Analytics Platform")
     st.markdown("""
     **Complete CSV-Driven Analytics System** | XGBoost | Prophet | SHAP | Feature Engineering | Interactive Dashboards
     """)
